@@ -38,6 +38,7 @@ h1 {
 h3 {
 	font-size: 1.3em;
 	padding-bottom: 20px
+	text-align: center;
 
 }
 
@@ -84,6 +85,7 @@ img {
 #subscribe {
 	align-self: center;
 	padding-right: 100px;
+	padding-bottom: 21px;
 }
 
 
